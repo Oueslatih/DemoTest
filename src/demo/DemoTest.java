@@ -13,5 +13,9 @@ public class DemoTest {
 		 System.out.println(a+b);
 	 }
 	
+	
+	
+	public static void add(int a , int b) {
+		System.out.printlin(a-b);
 	}
 
