@@ -9,13 +9,14 @@ public class DemoTest {
 	}
 
 	//for US123
-	 public static void add(int a , int b) {
+	 public static void add1(int a , int b) {
 		 System.out.println(a+b);
 	 }
 	
 	
 	
 	public static void add(int a , int b) {
-		System.out.printlin(a-b);
+		System.out.print(a-b);
 	}
 
+}
