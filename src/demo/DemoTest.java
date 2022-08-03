@@ -18,7 +18,9 @@ public class DemoTest {
 	public static void add(int a , int b) {
 		System.out.print(a-b);
 	}
-   
+	// for US456
+         public static void substract(int a , int b){
+		 System.out.println(a/b);
 	}
 	
 	
