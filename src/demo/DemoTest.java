@@ -18,8 +18,9 @@ public class DemoTest {
 	public static void add(int a , int b) {
 		System.out.print(a-b);
 	}
-       //for456
-	public static void main(int y , int s) {
-		System.out.println(y+s);
+   
 	}
-}
+	
+	
+
+
